@@ -4,7 +4,7 @@ A smart productivity tracker that combines real-time face detection, distraction
 # Features
 Face Detection: Uses your webcam and face-api.js to ensure the user is present before time tracking.
 
-#Distraction Detection:
+### Distraction Detection:
 
 YouTube: Videos are only marked productive if titles match educational keywords (e.g., "lecture", "tutorial", "java", "python", etc). Songs, movies, and non-educational content are counted as distractions—even if watched in Chrome, Edge, or the YouTube app.
 
